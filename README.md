@@ -1,4 +1,8 @@
 # Kampus Merdeka Batch 6: Mobile Developer Intern 2023
-Rini Husadiyah
-Program Studi Sarjana Terapan Sistem Informasi Geografis
-Universitas Gadjah Mada
+<p> Rini Husadiyah </p>
+<p> Program Studi Sarjana Terapan Sistem Informasi Geografis </p>
+<p> Universitas Gadjah Mada </p>
+
+<p> Tampilan Demo Aplikasi </p>
+
+
